@@ -34,3 +34,19 @@ With the new design I'm trying to focus on two things
 2. Make sure that there are enough space for the front axel rack and pinion thing to rotate comfortably.
 
 Next I'm going to model it on Fusion360
+
+<h3>TIME: 2 hours 18 mins</h3>
+
+<h2>2025-07-03's night:</h2>
+
+Okay so I drafted this design in TinkerCAD (I didn't use fusion because I didn't need very percise design as I would be handbuilding it anyway.) I had to change some stuff up along the way, but here's how it looks!
+
+![alt text](Assets/TinkerCADPreviewV0.png)
+
+The design now:
+
+1. Allows the front axle to straighten out fully (more like how it would usually comfortably operate, less resistance overall)
+2. Has mounting for steering axle instead of on the rack and pinion's rubber cover (does not push the rubber cover around, more grip overall)
+3. Things are in general stacked on top of eachother, less prone of structural stress.
+
+<h3>TIME: 3 hours 23 mins</h3>
