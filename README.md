@@ -11,7 +11,7 @@ It should be mentioned that the kart would be built from scratch under a very di
 
 Back in 2020 one of my friends got a Ninebot go kart and I was really jealous. After a good round of soccer and some dopamine to druken up my brain I vowed to two of my buddies that I would build a go kart just like it.
 
-Unfortunately, due to me being rather careless during the construction, the current design is not very stable and could not run at all due to my meager 24V 350W motor. Even if it could run, its poor structure would probably cause the rear segment to collapse after some bumps.
+Unfortunately, due to me being rather careless during the construction, the current design (see journal) is not very stable and could not run at all due to my meager 24V 350W motor. Even if it could run, its poor structure would probably cause the rear segment to collapse after some bumps.
 
 As mentioned, I want to use this opportunity to rebuild it and a stronger, more expensive motor so that it could actually run. I don't want this project to just be abandonded.
 
