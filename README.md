@@ -1,5 +1,5 @@
 # Resurrected-gokart
-High seas project to resurrected my partially successful go kart build
+Highways project to resurrected my partially successful go kart build
 
 <h3>Project Description</h3>
 
