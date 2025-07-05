@@ -50,3 +50,9 @@ The design now:
 3. Things are in general stacked on top of eachother, less prone of structural stress.
 
 <h3>TIME: 3 hours 23 mins</h3>
+
+<h2>2025-07-04:</h2>
+
+Added some other parts like the board which I am to sit on, gears and power system n stuff in the CAD model.
+
+![alt text](Assets/GoKartPowerSystemAdditionRear.png)
