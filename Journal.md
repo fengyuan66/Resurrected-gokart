@@ -56,3 +56,10 @@ The design now:
 Added some other parts like the board which I am to sit on, gears and power system n stuff in the CAD model.
 
 ![alt text](Assets/GoKartPowerSystemAdditionRear.png)
+
+I also worked on some submission requirements (adding info to README, etc.) 
+
+Drew the schematics. 
+
+<h3>TIME: ~2 hours</h3>
+

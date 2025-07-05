@@ -72,3 +72,19 @@ The new system allows the front axle to straighten out fully (less resistance ov
 I've only included the necessary pins on the motor controller because they'd usually come with a lot more. Sorry that it's a bit bare, I couldn't find symbols so I had to make custom ones.
 
 ![alt text](Assets/Gokart_Schematics_Diagram.PNG)
+
+<h3>BOM</h3>
+
+Note: The material needed exceeds the maximum budget of a 6-point project. If the project fits in this tier, I will happily pay the exceeding amount. However, if this can qualify as a 10 point project, that'd be super great as well.
+
+| Platform   | Description                             | Price per listed lot | # of parts per listed lot | Lots purchased | Final price (CAD) | Final price (USD) | Already owned? | Comments                                                      | Link |
+|------------|------------------------------------------|----------------------:|---------------------------:|----------------:|-------------------:|-------------------:|----------------|---------------------------------------------------------------|------|
+| Any        | Wood                                     |                     – |                        –   | –              | –                 | –                 | Yes            | My dad has a bunch of wood left                               | –    |
+| Any        | Metal fasteners                          |                     – |                        –   | –              | –                 | –                 | Yes            | Again, my dad works in HVAC so he has a bunch of them         | –    |
+| Any        | Triangle metal gusset plates             |                     – |                        –   | –              | –                 | –                 | Yes            | There's a couple of them left in the garage                   | –    |
+| Amazon     | Rear wheel axle set                      |                 199.89 |                         1 | 1              |            199.89 |            147.92  | Yes            | Purchased in 2022                                             | [Link](https://www.amazon.ca/Tacsal-Rear-Axle-Shaft-Assembly/dp/B0DNQT6FHH/) |
+| Amazon     | Front wheel axle set                     |                  80.99 |                         1 | 1              |             80.99 |             59.93  | Yes            | Original 2022 listing is gone, this is the closest I can find | [Link](https://www.amazon.ca/dp/B07ZQ54MXW) |
+| Amazon     | 48V 2000W motor kit (+motor controller)  |                 166.54 |                         1 | 1              |            166.54 |            123.24  | No             | –                                                             | [Link](https://www.amazon.ca/VEVOR-2000W-Electric-Brushless-Motor/dp/B0DT3RT5NY) |
+| Amazon     | 48V 48AH battery                          |                 133.99 |                         1 | 1              |            133.99 |             99.15  | No             | –                                                             | [Link](https://www.amazon.ca/Lithium-Battery-Protectio-200-2000W-Electric/dp/B0F449L6LZ) |
+| –          | –                                        |                     – |                        –   | –              | –                 | –                 | –              | –                                                             | –    |
+| –          | –                                        |                     – |                        –   | Total (CAD, USD): |            300.53 |            222.39  | –              | –                                                             | –    |
