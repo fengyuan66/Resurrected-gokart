@@ -2,7 +2,9 @@
 Highways project to resurrected my partially successful go kart build
 <h3>Something I probably need to recognise</h3>
 
-This project is very much build-based, so there isn't much design stuff. I also did not make a very render-like 3D model because its purpose is mainly to give a structure for where things will go. I thought that it wasn't very applicable to highway before I saw this guy's electric scooter. I'm okay with any compromises needed for less conventional electronic projects like these, including only receiving points after submitting final build. I'm also happy if this gets lowered to a 6 point project and lower project grant, as I intend on building it regardless. However, I will likely finish building after highway ends because I will be out of Canada after attending undercity, so I may need the project grant upon approval of project rather than after build.
+This project is very much build-based, so there isn't much design stuff. I also did not make a very render-like 3D model because its purpose is mainly to give a structure for where things will go. I'm okay with any compromises needed for less conventional electronic projects like these, including only receiving points after submitting final build. I'm also happy if this gets lowered to a 6 point project and lower project grant, as I intend on building it regardless. However, I will likely finish building after highway ends because I will be out of Canada after attending undercity, so I may need the project grant upon approval of project rather than after build.
+
+Because of its not-so-intricate nature, I thought that it wasn't very applicable to highway at first, until I saw this guy's electric scooter also submitted to highway. 
 
 <h3>Project Description</h3>
 
